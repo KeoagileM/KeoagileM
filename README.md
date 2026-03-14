@@ -9,7 +9,7 @@
   <a href="www.linkedin.com/in/keoagile-mafora" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:keoagilemafora@gmail.com.com">
+  <a href="keoagilemafora@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="your-portfolio-link" target="_blank">
@@ -134,7 +134,7 @@ A real-world business workflow application for submitting, reviewing, and managi
 ## 📫 Connect With Me
 
 <p>
-  <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/keoagile-mafora">your-linkedin-link</a><br>
+  <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/keoagile-mafora">linkedin</a><br>
   <strong>Email:</strong>keoagilemafora@gmail.com<br>
   <strong>Portfolio:</strong> <a href="your-portfolio-link">your-portfolio-link</a>
 </p>
