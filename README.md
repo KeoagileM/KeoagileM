@@ -2,12 +2,11 @@
 <h3 align="center">💻Junior Software Developer | 🎓Software Development Student </h3>
 
 <p align="center">
-  I build practical software solutions using <strong>C#</strong>, <strong>SQL</strong>, and modern web technologies.<br>
-  Passionate about <strong>backend development</strong>, <strong>business systems</strong>, and <strong>database-driven applications</strong>.
+  I'm a passionate aspiring software developer currently studying a Diploma in Information Technology in Software Development. I have experience of creating two software applications that solve different problems in the workplace.
 </p>
 
 <p align="center">
-  <a href=" http://www.linkedin.com/in/keoagile-mafora " target="_blank">
+  <a href="http://www.linkedin.com/in/keoagile-mafora" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:keoagilemafora@example.com">
